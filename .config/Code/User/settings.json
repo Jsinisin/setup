@@ -1,0 +1,26 @@
+{
+    "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.language.colorizedBracketPairs": [
+
+
+
+
+
+    ],
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none",
+    "workbench.editor.restoreViewState": false,
+    "json.schemas": [
+
+
+    ],
+    "files.hotExit": "off",
+    "window.newWindowDimensions": "maximized",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.colorCustomizations": {
+},
+"editor.renderLineHighlight": "none",
+"editor.fontVariations": false,
+"editor.tokenColorCustomizations": {}
+}
